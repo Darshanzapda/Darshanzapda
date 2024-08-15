@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Software and UI/UX Development**
 
 - 📫 How to reach me **darshanrzapda@gmail.com**
 
